@@ -1,0 +1,6 @@
+{
+  "name": "Fire Signal AI",
+  "description": "Premium AI-powered signal analysis platform for traders, scan trading charts and get instant buy/sell signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
